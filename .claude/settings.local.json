@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(git clone:*)",
+      "Read(//tmp/**)",
+      "Read(//tmp/sleek-portfolio-ref/**)",
+      "Bash(cat /tmp/sleek-portfolio-ref/src/app/projects/[slug]/page.tsx)",
+      "Bash(npm install:*)",
+      "Bash(npx next:*)",
+      "Bash(cp public/assets/logo.png public/project/zugo.png)",
+      "Bash(cp public/assets/logo.png public/project/mynotes.png)",
+      "Bash(cp public/assets/logo.png public/project/cricketpoll.png)",
+      "Bash(cp public/assets/logo.png public/project/moviechitchat.png)",
+      "Bash(cp public/assets/logo.png public/project/fittrack.png)",
+      "Bash(ls -la \"C:/Users/Akshat/Projects/Personal-Portfolio/public/project/\"*.png \"C:/Users/Akshat/Projects/Personal-Portfolio/public/company/\"*.png)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Akshat\\Projects\\Personal-Portfolio\\src\\app\\projects\\[slug]",
+      "c:\\Users\\Akshat\\Projects\\Personal-Portfolio\\src\\app\\contact"
+    ]
+  }
+}
