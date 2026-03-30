@@ -7,7 +7,6 @@ import Flutter from '@/components/technologies/Flutter';
 import Kotlin from '@/components/technologies/Kotlin';
 import Postman from '@/components/technologies/Postman';
 import Riverpod from '@/components/technologies/Riverpod';
-import Sentry from '@/components/technologies/Sentry';
 
 export interface Technology {
   name: string;
