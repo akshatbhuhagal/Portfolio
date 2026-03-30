@@ -15,7 +15,9 @@
       "Bash(cp public/assets/logo.png public/project/cricketpoll.png)",
       "Bash(cp public/assets/logo.png public/project/moviechitchat.png)",
       "Bash(cp public/assets/logo.png public/project/fittrack.png)",
-      "Bash(ls -la \"C:/Users/Akshat/Projects/Personal-Portfolio/public/project/\"*.png \"C:/Users/Akshat/Projects/Personal-Portfolio/public/company/\"*.png)"
+      "Bash(ls -la \"C:/Users/Akshat/Projects/Personal-Portfolio/public/project/\"*.png \"C:/Users/Akshat/Projects/Personal-Portfolio/public/company/\"*.png)",
+      "Bash(pip install:*)",
+      "Bash(python -c \":*)"
     ],
     "additionalDirectories": [
       "C:\\Users\\Akshat\\Projects\\Personal-Portfolio\\src\\app\\projects\\[slug]",
